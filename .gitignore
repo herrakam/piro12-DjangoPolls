@@ -24,7 +24,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+myvenv/Lib/
 lib64/
 parts/
 sdist/
